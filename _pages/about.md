@@ -24,5 +24,3 @@ I am a second year PhD student at Northwestern Computer Science, advised by [Mik
 I have a broad interest across Random Graph and Reliable Machine Learning. I am currently studying efficient algorithms for graph matching and community recovery for stochastic block models. Besides, I am also aware of the importance of learning with untrusted or low-quality data.
 
 In my spare time, I go to a lot of classical concerts and art museums.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
