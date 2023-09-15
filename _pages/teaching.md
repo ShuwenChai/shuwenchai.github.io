@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+Introduction to Theory of Computation, 2023 Fall, Northwestern University
+Introduction to Machine Learning, 2021 Spring, Renmin University of China
