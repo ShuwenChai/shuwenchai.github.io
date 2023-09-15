@@ -6,7 +6,7 @@ subtitle: <a href='#'>Northwestern University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mudd Library 3016</p>
