@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD student from Northwestern University Computer Science Department, advised by [Miklós Rácz](https://racz.statistics.northwestern.edu/index.html). Prior to this, I obtained my Bachelor's degree in Statistics from Renin University of China in 2022. 
+I am a second year PhD student from Northwestern University Computer Science Department, advised by [Miklós Z. Rácz](https://racz.statistics.northwestern.edu/index.html). Prior to this, I obtained my Bachelor's degree in Statistics from Renin University of China in 2022. 
 
 I have a broad interest across Random Graph and Reliable Machine Learning. I am currently studying efficient algorithms for graph matching and community recovery for stochastic block models. Besides, I am also aware of the importance of learning with untrusted or low-quality data.
 
