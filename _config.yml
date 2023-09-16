@@ -54,8 +54,8 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 
-# Dimensions
-max_width: 500px
+# Dimensions for the whole page!
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
