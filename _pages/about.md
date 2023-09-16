@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Northwestern University</a> 
+subtitle: <a href='#'>[Northwestern University](https://www.northwestern.edu/)</a> 
 
 profile:
   align: left
