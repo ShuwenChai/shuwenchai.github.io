@@ -26,6 +26,5 @@ My main research interest lies in the intersection of Statistics and Computer Sc
 •	dynamic evolving networks that mimic real-world phenomena (e.g., preferential attachment graphs)
 •	dynamic process on the network (e.g., Susceptible-Infected process motivated by epidemiology).
 
-# I am also interested in and have worked on confidence intervals, hypothesis testing and trustworthy machine learning. One specific type of hypothesis testing I am actively thinking about is the changepoint detection on both dynamic evolving networks and the dynamic process on a network.
 
 In my spare time, I go to a lot of classical concerts. One of my favorite composers is Tchaikovsky (whose name has my family name as a substring).
