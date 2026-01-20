@@ -19,8 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student in the CS Theory Group at Northwestern University, advised by [Miklós Z. Rácz](https://racz.statistics.northwestern.edu/index.html). Prior to this, I obtained my Bachelor's degree in Statistics from Remin University of China in 2022. 
+I am a fourth year PhD student in the CS Theory Group at Northwestern University, advised by [Miklós Z. Rácz](https://racz.statistics.northwestern.edu/index.html). Prior to this, I obtained my Bachelor's degree in Statistics from Renmin University of China in 2022. 
 
-I have a broad interest across statistical inference and algorithms on random graphs, statistical-computational gaps, and reliable machine learning. I am currently working on community detection and graph matching on various random graphs with planted community structures, and also testing problems considering community structures from a stochastic block model versus a gaussian mixture. Besides, I am also interested in establishing theoretical guarantees for adversarial robustness and distribution shift.
+My main research interest lies in the intersection of Statistics and Computer Science. The common goals in my recent and ongoing works are working towards the establishment of statistical-computational gaps, developing efficient algorithms or testing procedure to solve estimation or detection problems, etc. I mostly work on various topics related to random networks, including but not limited to
+•	beyond worst case analysis for NP-hard problems (e.g., graph matching on correlated stochastic block models)
+•	dynamic evolving networks that mimic real-world phenomena (e.g., preferential attachment graphs)
+•	dynamic process on the network (e.g., Susceptible-Infected process motivated by epidemiology).
+I am also interested in and have worked on confidence intervals, hypothesis testing and trustworthy machine learning. One specific type of hypothesis testing I am actively thinking about is the changepoint detection on both dynamic evolving networks and the dynamic process on a network.
 
 In my spare time, I go to a lot of classical concerts. One of my favorite composers is Tchaikovsky (whose name has my family name as a substring).
