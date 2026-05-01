@@ -9,7 +9,7 @@ nav_order: 5
 
 **Teaching Assistant:**
 
-[COMP_SCI 212: Discrete Mathematics for Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html), 2024 Fall, Northwestern University
+[COMP_SCI 212: Discrete Mathematics for Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html), 2024 Fall, 2025 Fall, Northwestern University
 
 [COMP_SCI 335: Intro to the Theory of Computation](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/335.html), 2023 Fall, Northwestern University
 
@@ -20,8 +20,4 @@ Introduction to Machine Learning, 2021 Spring, Renmin University of China
 
 **Conference Reviewer:**
 
-International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
-
-International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
-
-International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
+FOCS 2026, SODA 2026, APPROX 2025, NeurIPS (2025-2026), AISTATS (2023-2026)
